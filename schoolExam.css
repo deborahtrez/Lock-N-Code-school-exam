@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+footer{
+    font-size: small;
+}
+button{
+    background-color: rgb(145, 145, 235);
+    
+}
+.button {
+    text-align: center;
+}
